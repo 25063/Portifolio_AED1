@@ -1,0 +1,5 @@
+Harry Potter;Aventura;‎J. K. Rowling;0
+Game of Thrones;Fantasia;George R. R. Martin;18
+Vingadores;Herois;Abnett;0
+Aprendendo C#;Educação;André Ribeiro;0
+Java: A Linguagem Da Vida;Educação/Espiritismo;Steve Jobs;10
