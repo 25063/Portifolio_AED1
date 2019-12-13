@@ -1,0 +1,7 @@
+2;ADM;10;123;0
+1;Amanda;19;179;
+1;Lucas;20;190;
+1;Pedro Gameplay;9;17887;
+3;Carlos;26;111;1
+1;Pedroca;2;555;
+1;db;62;62;

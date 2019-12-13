@@ -1,0 +1,25 @@
+	/*
+		Usuario user = new Usuario();
+		biblio.RealizarCadastro(user);
+		
+		if( biblio.getUsuarioLogado().GetType() == typeof(Usuario) ){
+			Usuario user2 = (Usuario) biblio.getUsuarioLogado();
+			user2.AlugarLivro("Harry Potter",biblio);
+			Console.WriteLine(biblio.getUsuarioLogado().GetType());
+			biblio.SalvarPessoa(user2);
+			
+			Console.WriteLine(user2);
+			user2 = (Usuario) biblio.getUsuarioLogado();
+
+			
+			
+
+		}*/
+
+		
+		//biblio.getUsuarioLogado().AlugarLivro("Harry Potter",biblio);
+		//Console.WriteLine(pen.getLogado());
+		//pen.AlugarLivro();
+		
+
+		
